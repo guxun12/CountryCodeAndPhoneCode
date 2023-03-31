@@ -5,7 +5,7 @@
 |:---:|:----:|:------:|:------:|
 |english_name|chinese_name|country_code|phone_code|
 
-### 腾讯国际短信 支持的 地区和对应的电话区号
+### 腾讯国际短信 支持的 地区和对应的电话区 号
 
 加上 `中国` 一个支持  **217** 个国家或地区 [Tencnet SMS CountryCodeAndPhoneCode](./tencentSms/countryCodeAndPhoneCode.json)
 
